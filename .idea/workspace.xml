@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6685b822-0fe4-4c9d-9712-91cf16e3cec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaHomework" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Eih7teyerYlMmkPttYe4EUlXbS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.PrimeFactorization">
+    <configuration name="CharacterString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork03.CharacterString" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork04.CountPrimes" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountPrimes02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork04.CountPrimes02" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountPrimes03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork04.CountPrimes03" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeFactorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork04.PrimeFactorization" />
+      <module name="JavaHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeFactorization" />
+        <item itemvalue="Application.CountPrimes03" />
+        <item itemvalue="Application.CountPrimes02" />
+        <item itemvalue="Application.CountPrimes" />
+        <item itemvalue="Application.CharacterString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6685b822-0fe4-4c9d-9712-91cf16e3cec6" name="Default Changelist" comment="" />
+      <created>1663084147161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663084147161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="232" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1663755422618">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="598" y="232" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.816@0.0.1536.816" timestamp="1663755422618" />
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1664899379246">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1664899379246" />
+    <state width="1483" height="130" key="GridCell.Tab.0.bottom" timestamp="1664975555909">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="130" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664975555909" />
+    <state width="1483" height="130" key="GridCell.Tab.0.center" timestamp="1664975555909">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="130" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1664975555909" />
+    <state width="1483" height="130" key="GridCell.Tab.0.left" timestamp="1664975555909">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="130" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1664975555909" />
+    <state width="1483" height="130" key="GridCell.Tab.0.right" timestamp="1664975555909">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="130" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1664975555909" />
+    <state width="1483" height="250" key="GridCell.Tab.1.bottom" timestamp="1664967851349">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="250" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1664967851349" />
+    <state width="1483" height="250" key="GridCell.Tab.1.center" timestamp="1664967851349">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="250" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1664967851349" />
+    <state width="1483" height="250" key="GridCell.Tab.1.left" timestamp="1664967851349">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="250" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1664967851349" />
+    <state width="1483" height="250" key="GridCell.Tab.1.right" timestamp="1664967851349">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1483" height="250" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1664967851349" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1663755423258">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1663755423258" />
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1664963086836">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1664963086836" />
+    <state x="245" y="81" width="1045" height="735" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1663676741444">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="245" y="81" width="1045" height="735" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.816@0.0.1536.816" timestamp="1663676741444" />
+    <state x="347" y="0" width="840" height="814" key="search.everywhere.popup" timestamp="1663248237202">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="347" y="0" width="840" height="814" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1663248237202" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Math.sqrt(index)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
